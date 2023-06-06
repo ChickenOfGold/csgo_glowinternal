@@ -1,0 +1,18 @@
+﻿  buffer.c
+  hde32.c
+  hde64.c
+  hook.c
+  trampoline.c
+  globals.cpp
+  hooks.cpp
+  interfaces.cpp
+  netvars.cpp
+  misc.cpp
+  main.cpp
+  memory.cpp
+     Creating library C:\Users\Szymek\Desktop\CSGO Glow Project\build\based.lib and object C:\Users\Szymek\Desktop\CSGO Glow Project\build\based.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1094 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  based.vcxproj -> C:\Users\Szymek\Desktop\CSGO Glow Project\build\based.dll
